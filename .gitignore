@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+data/interim/
+data/processed/
+data/tmp_test/
+graphs/
+logs/
+results/
+tmp_pdf_images*/
+tmp_pdf_pages*/

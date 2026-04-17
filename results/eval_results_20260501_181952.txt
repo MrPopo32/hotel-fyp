@@ -1,0 +1,12 @@
+﻿Evaluation Results - 20260501_181952
+
+Command 1: python scripts/run_eval.py --task non_personalized --max-hotels 500
+k,Mode,Diversity,Relevance,Coverage,RecCoverage,CityMatch,SentimentAlignment,RecRating,Novelty,Serendipity
+10,Case-based Metadata,False,1.0000,1.0000,0.4776,1.0000,0.8849,3.9581,0.2512,0.0264
+10,Frequency-based,False,1.0000,1.0000,0.4937,1.0000,0.8820,4.0517,0.2556,0.0365
+10,Sentiment-enhanced,False,1.0000,1.0000,0.4211,1.0000,0.9178,4.1784,0.2723,0.0347
+
+Command 2: python scripts/run_eval.py --task personalized --max-users 100 --max-targets 1000
+k,Mode,Diversity,Targets,HitRate,MRR,Novelty,Serendipity
+10,Frequency-based,False,446,0.0942,0.0337,0.3225,0.0583
+10,Sentiment-enhanced,False,446,0.0762,0.0148,0.3225,0.0583

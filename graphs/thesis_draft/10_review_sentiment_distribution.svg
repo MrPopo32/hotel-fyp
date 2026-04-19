@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="48" font-family="Arial" font-size="26" font-weight="700" fill="#1f2937">Review sentiment distribution</text>
+<line x1="90" y1="405.0" x2="850" y2="405.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="409.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">0</text>
+<line x1="90" y1="342.0" x2="850" y2="342.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="346.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">16,515</text>
+<line x1="90" y1="279.0" x2="850" y2="279.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="283.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">33,029</text>
+<line x1="90" y1="216.0" x2="850" y2="216.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="220.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">49,544</text>
+<line x1="90" y1="153.0" x2="850" y2="153.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="157.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">66,058</text>
+<line x1="90" y1="90.0" x2="850" y2="90.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="94.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">82,573</text>
+<rect x="90.0" y="90.0" width="182.5" height="315.0" fill="#2563eb" rx="3"/>
+<text x="181.2" y="83.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">82,573</text>
+<text x="181.2" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">positive</text>
+<rect x="282.5" y="236.3" width="182.5" height="168.7" fill="#059669" rx="3"/>
+<text x="373.8" y="229.3" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">44,235</text>
+<text x="373.8" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">neutral</text>
+<rect x="475.0" y="317.9" width="182.5" height="87.1" fill="#dc2626" rx="3"/>
+<text x="566.2" y="310.9" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">22,837</text>
+<text x="566.2" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">negative</text>
+<rect x="667.5" y="343.2" width="182.5" height="61.8" fill="#7c3aed" rx="3"/>
+<text x="758.8" y="336.2" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">16,198</text>
+<text x="758.8" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">mixed</text>
+</svg>

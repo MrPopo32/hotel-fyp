@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="48" font-family="Arial" font-size="26" font-weight="700" fill="#1f2937">Most common frozen mined dimensions</text>
+<line x1="90" y1="405.0" x2="850" y2="405.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="409.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">0</text>
+<line x1="90" y1="342.0" x2="850" y2="342.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="346.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">21,028</text>
+<line x1="90" y1="279.0" x2="850" y2="279.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="283.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">42,056</text>
+<line x1="90" y1="216.0" x2="850" y2="216.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="220.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">63,084</text>
+<line x1="90" y1="153.0" x2="850" y2="153.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="157.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">84,112</text>
+<line x1="90" y1="90.0" x2="850" y2="90.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="94.0" text-anchor="end" font-family="Arial" font-size="11" fill="#6b7280">105,140</text>
+<rect x="90.0" y="90.0" width="67.0" height="315.0" fill="#2563eb" rx="3"/>
+<text x="123.5" y="83.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">105,140</text>
+<text x="123.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">amenities</text>
+<rect x="167.0" y="103.0" width="67.0" height="302.0" fill="#059669" rx="3"/>
+<text x="200.5" y="96.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">100,789</text>
+<text x="200.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">room quality</text>
+<rect x="244.0" y="107.5" width="67.0" height="297.5" fill="#dc2626" rx="3"/>
+<text x="277.5" y="100.5" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">99,294</text>
+<text x="277.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">staff</text>
+<rect x="321.0" y="115.1" width="67.0" height="289.9" fill="#7c3aed" rx="3"/>
+<text x="354.5" y="108.1" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">96,758</text>
+<text x="354.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">location</text>
+<rect x="398.0" y="186.2" width="67.0" height="218.8" fill="#d97706" rx="3"/>
+<text x="431.5" y="179.2" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">73,016</text>
+<text x="431.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">cleanliness</text>
+<rect x="475.0" y="207.8" width="67.0" height="197.2" fill="#0891b2" rx="3"/>
+<text x="508.5" y="200.8" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">65,833</text>
+<text x="508.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">value</text>
+<rect x="552.0" y="251.5" width="67.0" height="153.5" fill="#be123c" rx="3"/>
+<text x="585.5" y="244.5" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">51,243</text>
+<text x="585.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">check in</text>
+<rect x="629.0" y="279.4" width="67.0" height="125.6" fill="#4f46e5" rx="3"/>
+<text x="662.5" y="272.4" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">41,924</text>
+<text x="662.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">noise</text>
+<rect x="706.0" y="304.6" width="67.0" height="100.4" fill="#15803d" rx="3"/>
+<text x="739.5" y="297.6" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">33,515</text>
+<text x="739.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">food</text>
+<rect x="783.0" y="404.4" width="67.0" height="0.6" fill="#b45309" rx="3"/>
+<text x="816.5" y="397.4" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">208</text>
+<text x="816.5" y="429.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">business</text>
+<text x="816.5" y="443.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#1f2937">center</text>
+</svg>

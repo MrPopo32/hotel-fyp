@@ -1,0 +1,12 @@
+Evaluation Results - 20260503_full
+
+Command 1: python scripts/run_eval.py --task non_personalized
+k,Mode,Diversity,Relevance,Coverage,RecCoverage,CityMatch,SentimentAlignment,RecRating,Novelty,Serendipity
+10,Case-based Metadata,False,0.0109,1.0000,0.1241,1.0000,0.5289,3.2529,0.8430,0.0042
+10,Frequency-based,False,0.0994,1.0000,0.8295,1.0000,0.5494,3.7258,0.3278,0.0189
+10,Sentiment-enhanced,False,0.0334,1.0000,0.2367,1.0000,0.5792,4.3437,0.6629,0.0062
+
+Command 2: python scripts/run_eval.py --task personalized
+k,Mode,Diversity,Targets,HitRate,MRR,Novelty,Serendipity
+10,Frequency-based,False,849,0.0565,0.0185,0.3176,0.2184
+10,Sentiment-enhanced,False,849,0.0400,0.0091,0.3176,0.2184

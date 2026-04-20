@@ -1,0 +1,12 @@
+﻿Evaluation Results - partial frozen dimensions - 20260504_171019
+
+Command 1: python scripts/run_eval.py --task non_personalized --max-hotels 500
+k,Mode,Diversity,Relevance,Coverage,RecCoverage,CityMatch,SentimentAlignment,RecRating,Novelty,Serendipity
+10,Case-based Metadata,False,0.1192,1.0000,0.4810,1.0000,0.7795,4.0163,0.2556,0.0039
+10,Frequency-based,False,0.1076,1.0000,0.5059,1.0000,0.7780,3.9775,0.2712,0.0042
+10,Sentiment-enhanced,False,0.0804,1.0000,0.2401,1.0000,0.8281,4.2959,0.3490,0.0017
+
+Command 2: python scripts/run_eval.py --task personalized --max-users 100 --max-targets 1000
+k,Mode,Diversity,Targets,HitRate,MRR,Novelty,Serendipity
+10,Frequency-based,False,446,0.0381,0.0112,0.3225,0.0975
+10,Sentiment-enhanced,False,446,0.0224,0.0034,0.3225,0.0975

@@ -1,0 +1,15 @@
+{
+  "count": 10,
+  "dimensions": [
+    "amenities",
+    "business_center",
+    "check_in",
+    "cleanliness",
+    "food",
+    "location",
+    "noise",
+    "room_quality",
+    "staff",
+    "value"
+  ]
+}
